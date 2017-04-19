@@ -1,2 +1,5 @@
 .idea
 *.iml
+node_modules
+src/main/resources/app/*.js*
+src/main/resources/main.js*
