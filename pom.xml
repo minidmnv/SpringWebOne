@@ -14,6 +14,15 @@
             <artifactId>spring-webmvc</artifactId>
             <version>4.3.7.RELEASE</version>
         </dependency>
+        <dependency>
+            <artifactId>juddi-client</artifactId>
+            <groupId>org.apache.juddi</groupId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.juddi</groupId>
+            <artifactId>uddi-ws</artifactId>
+            <version>3.0.3</version>
+        </dependency>
     </dependencies>
 
 </project>
